@@ -3,5 +3,5 @@ language: java
 deploy:
   provider: heroku
   api_key:
-    secure: "882e25c5-8ad9-46cd-a6ba-4af26fdb995a"
-    app: tempo-cycledev
+    secure: "eea5fac4-4fd2-47db-ae0e-bf2ea6ce29e1"
+  app: tempo-cycledev
